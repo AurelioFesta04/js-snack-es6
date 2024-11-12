@@ -59,6 +59,9 @@ compresa tra i due numeri. Non usare i metodi di array di JS
 ### Dati
 
 ### Esecuzione logica
-
+-creo una funzione grazie alla quale preleviamo dall'array 2 valori ed includiamo i numeri tra essi, qui il primo valore sarà minore del secondo.
+una volta fatto ciò creo l'array principale con dei valori all'interno.
+creo poi le variabili (a cui ci ho aggiunto un prompt (senza controlli per l'utente)).
 ### Output
+array definitivo.
 ---------------------------
