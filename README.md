@@ -11,9 +11,16 @@ Stampare a schermo oppure in console la bici con peso minore.
 ### Esecuzione logica
 -creare un array di bici con 10 bici da corsa come oggetti.
 -dare come chiavi degli oggetti: nome e peso.
+-creare un array per la bici più leggera.
+-impostare un ciclo for con un if dentro. 
 ### Output
 -Stampare a schermo oppure in console la bici con peso minore.
 ---------------------------
+
+
+
+
+
 
 <COMANDO>
 Creare un array di oggetti di squadre di calcio.
@@ -25,11 +32,23 @@ Infine, creiamo un nuovo array i cui elementi contengono solo nomi
 e falli subiti e stampiamo tutto in console.
 
 ### Dati
-
+-array di squadre.
+-oggetti dell'array = nomi, punti fatti, falli subiti.
+-chiavi = nome, peso.
 ### Esecuzione logica
-
+-creare un generatore di nuumeri casuali.
+-creare una funzione per aggiungere i numeri casuali sull'array delle squadre.
+-creare una funzione per avere un secondo array con nomi e falli subiti.
+-ho poi unito le 2 funzioni in una sola funzione.
 ### Output
+-2 array diversi
 ---------------------------
+
+
+
+
+
+
 
 <COMANDO>
 Scrivere una funzione che accetti tre argomenti, un array e due numeri
